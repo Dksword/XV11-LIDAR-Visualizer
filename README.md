@@ -1,4 +1,4 @@
-# XV11_LIDAR_Visualizer
+# XV11 LIDAR Visualizer
 A small program to debug the XV-11 LIDAR module.Built with Qt and it's cross platform on Windows/Mac/Linux.
 Here's the main features:  
 -Visualizing the dot data with selectable range from 1-10 meters  
